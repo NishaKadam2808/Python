@@ -1,0 +1,26 @@
+k=[20,True,3.14,'Nisha',30,37]
+n=[123,124]
+b=[99,22,44,33,44]
+'''print("Without Append : ",k)
+#k.append('NK')
+#print("With Append : ",k)
+#k.insert(3,30)
+#print(k)
+#n.extend(k)
+#print(n)
+#n.remove(123)
+#print(n)
+#n.pop(1)
+#print(n)
+#n.reverse()
+#print(n)
+#b.sort()
+#print(b)
+#b.reverse()
+#print(b)
+#k.clear()
+#print(k)
+#print(b.count(44))
+print(b.index(44))'''
+l=k.copy()
+print(l)
